@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Angelozaa
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning C
+- 👀 I’m interested in Unity
+- 🌱 I’m currently learning Java, TypeScript, DB
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me ...
 
